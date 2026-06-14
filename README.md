@@ -1,2 +1,2 @@
-# dio_dashboard_xbox_excel
-Desafio DIO: Criando um Dashboard de Vendas do Xbox com Excel
+# Desafio DIO: Criando um Dashboard de Vendas do Xbox com Excel
+O projeto consistiu em criar um dashboard a partir de uma base de dados de vendas de assinaturas do XBOX Game Pass. A base de dados foi fornecida pela DIO. Foram analisados os dados sobre as assinaturas da EA Play Season Pass e do Minecraft Season Pass. O dashboard favorece a visualização dos dados por períodos (anual, mensal ou quadrienal) e os valores.
